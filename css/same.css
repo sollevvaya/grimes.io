@@ -1,0 +1,33 @@
+img {
+    max-width: 200px;
+    margin-left: 150px;
+    margin-right: -200px;
+}
+
+.divSame{
+    gap: 70px;
+    padding-right: 100px;
+}
+
+.sameText{
+    max-width: 700px;
+    margin-right: -200px;
+    margin-bottom: 20px;
+}
+
+.divText{
+    padding-bottom: 10px;
+}
+
+.zagolovok{
+    color: rgb(104, 20, 20);
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.zagolovok2{
+    margin-left: 150px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}

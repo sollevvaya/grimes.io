@@ -1,0 +1,62 @@
+.karusel{
+    margin-left: 50px;
+   
+    max-width: 500px;
+    float: left;
+    margin-right: 25px;
+    
+  }
+  
+  .karusel img{
+   max-width: 500px;
+  
+  }
+
+  .textGrimes{
+    text-align: left;
+    display: flex;
+    
+}
+
+.carousel-item img{
+    float: left;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;}
+
+
+
+.factGrimes{
+    color: rgb(104, 20, 20);
+    
+}
+
+.factGrimesTable{
+   background-color:  linear-gradient(rgb(188, 34, 47), #c66666) fixed;
+}
+
+.bioGrimes{
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 2px #808080;
+    font-size: 18px;
+   
+}
+
+.divFact{
+    margin-left: 30px;
+    margin-top: -40px;
+}
+
+.divBio{
+    margin-top: 30px;
+    margin-right: 20px;
+}

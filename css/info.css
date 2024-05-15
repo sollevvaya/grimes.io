@@ -1,0 +1,68 @@
+img{
+    max-width: 150px;
+   
+}
+
+.img:hover{
+    transform: scale(2);
+}
+
+.img{
+    transition: transform 0.2s;
+}
+
+.table{
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div{
+    display: flex;
+}
+
+th, td{
+    width: 150px;
+}
+
+td{
+    max-width: 400px;
+}
+
+.textInfo{
+    margin-right: 30px;
+}
+
+.textYear{
+    font-size: 30px;
+    color: rgb(104, 20, 20);
+     margin-left: 30px;
+}
+
+.textMonth{
+    font-size: 20px;
+   
+}
+
+.divPereh a{
+    text-decoration: none;
+    color: rgb(104, 20, 20);
+    font-size: 18px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+
+}
+
+.textGrimes{
+   margin-left: 200px;
+   margin-right: 200px;
+   text-align: justify;
+   margin-top: 10px;
+   
+}
+
+.infoZag{
+   margin-top: 20px;
+   margin-left: 197px;
+}

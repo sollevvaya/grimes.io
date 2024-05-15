@@ -1,0 +1,24 @@
+.carousel{
+    max-width: 400px;
+   
+}
+
+td, th{
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+
+table{
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+th{
+    color: rgb(104, 20, 20);
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

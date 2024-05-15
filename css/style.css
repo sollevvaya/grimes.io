@@ -1,0 +1,90 @@
+.imgLogo{
+    max-width: 80px;
+}
+
+.colorHeader{
+    background-color: rgb(188, 34, 47);
+    
+}
+
+.colorHeaderText{
+    color: white;
+    font-size: 30px; 
+    margin-left: 20px;
+} 
+
+.spisok{
+    margin-left: 80px;
+    gap: 20px;
+    font-size: 16px;
+}
+
+.shriftZagolovki{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.shriftText{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.poisk{
+    max-height: 30px;
+}
+
+
+
+body { 
+     
+    background: linear-gradient(rgb(200, 199, 199), #906666) fixed;
+   }
+
+
+footer{
+    background-color: linear-gradient(rgb(188, 34, 47), #c66666) fixed;
+}
+
+.ft{
+    color: rgb(252, 252, 252);
+    font-size: 20px;
+    text-align: right;
+   margin-top: 1px;
+   text-decoration: none;
+   margin-right: 20px;
+   
+}
+
+.os{
+    text-decoration: none;
+    text-align: right;
+    color: rgb(41, 8, 8);
+    margin-right: 20px;
+}
+
+.os a{
+    text-decoration: none;
+    text-align: right;
+    color: rgb(255, 255, 255);
+}
+
+.liSpisok{
+    list-style-type: none;
+}
+
+.footer {
+    background-color: rgb(188, 34, 47);
+    color: #fff;
+    text-align: center;
+    padding: 20px 0; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+.footer p {
+    margin: 0;
+}
+
+
+
